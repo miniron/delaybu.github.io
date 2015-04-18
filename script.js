@@ -8,7 +8,7 @@ if (query) {
 
 // Load readme content
 $.ajax({
-	url: "http://delaybu.github.io/"+branch+"/readme.md",
+	url: "http://delaybu.github.io/delaybu.md"+branch+"/readme.md",
 	dataType: 'text',
 	success: function(data) {
 		
