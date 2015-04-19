@@ -1,5 +1,3 @@
-### [마크다운 페이지로 바로가기](https://github.com/delaybu/delaybu.github.io/blob/master/readme.md)
-
 ![내사진](my.jpg) 
 #부지연 (delaybu@gmail.com) 
 
@@ -21,3 +19,6 @@
  1. - [__진행중__] 조이패드 애플리케이션 제작 
  2. - [] 아두이노 보드를 이용한 드론 제작  
 ![아두이노](arduino.png) 
+
+### [마크다운 페이지로 바로가기](https://github.com/delaybu/delaybu.github.io/blob/master/readme.md)
+
