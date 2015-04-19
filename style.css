@@ -15,7 +15,7 @@ html, html a {
 
 body {
 	font-family: Raleway, Ubuntu, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
-	font-size: 1.1em;
+	font-size: 1em;
 	background: #e5e5e5;
 	color: #555;
 	padding: .5em;
@@ -44,7 +44,7 @@ a:hover {
 h1 {
 	margin: 0;
 	margin-top: .1em;
-	font-size: 4em;
+	font-size: 1.1em;
 	font-weight: 800;
 }
 
@@ -53,8 +53,11 @@ h1 + p {
 	text-align: center;
 }
 
+
 img {
-	width: 100%;
+	display: block;
+	margin: auto;
+	width: 25%;
 	height: auto;
 }
 
