@@ -1,3 +1,5 @@
+### [마크다운 페이지로 바로가기](https://github.com/delaybu/delaybu.github.io/blob/master/readme.md)
+
 ![내사진](my.jpg) 
 #부지연 (delaybu@gmail.com) 
 
